@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/style.css"],"names":[],"mappings":"AAAA,QACI,0CACJ","file":"main.1d31df7d.chunk.css","sourcesContent":[".myFont{\n    font-family: '../fonts/NotoSansLao-Regular';\n}"]}
